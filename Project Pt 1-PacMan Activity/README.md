@@ -1,1 +1,2 @@
 # Project Pt 1 - PacMan Activity
+This makes a PacMan move from one side of the screen to the other. This activity makes you practice with setInterval and setTimeout functions. It also makes you check whether the image is touching the bounds of the screen.
