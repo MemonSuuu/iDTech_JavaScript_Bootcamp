@@ -1,1 +1,2 @@
 # Fortune Teller Activity
+This is a fortune teller game. The user can choose any number from 0 to 10. If the number is between 0 and 3, the fortune is low. If it's between 4 and 7, the fortune is average. If it's between 8 and 10, the fortune is great. Any other number won't be given a fortune. 
