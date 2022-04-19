@@ -1,1 +1,2 @@
 # Project Pt 2 - PacMen Factory Activity
+This adds pacmen to the screen every time the button "Add PacMan" is clicked. When "Start Game" is clicked, the pacmen move in different directions and bounce of the borders of the wall. 
