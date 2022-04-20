@@ -1,0 +1,19 @@
+{
+    "name": "greet",
+    "version": "1.0.0",
+    "description": "Testing Greet function",
+    "main": "greet.js",
+    "dependencies": {
+      "course-utilities": "^1.0.0",
+      "jest": "^26.1.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/iDTech-Neha/iDTech_JavaScript_Bootcamp.git"
+    },
+    "author": "rrcostapatel@gmail.com"
+  }
